@@ -1,0 +1,10 @@
+#iclude 'm.h" 
+/**
+ * main_Enterpoint
+* Return: Always
+	*/
+	int main(void)
+	{
+	print_school();
+	return (EXIT_SUCCESS);
+	}
